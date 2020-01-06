@@ -5,6 +5,10 @@ Generative Art made with Processing and Processing.py
 
 ## Circles ([source](https://github.com/MLK97/GenerativeArt/tree/master/Circles))
 
-<p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Circles/images/circles-000014.jpg" alt="dots" width="90%"></p>
+<p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Circles/images/circles-000014.jpg" alt="circles" width="90%"></p>
 <p>This is an animated derivative of <a href="https://github.com/aaronpenne/generative_art/">Aaron Penne's</a> recreation of <a href="https://twitter.com/paulrickards/status/1028651749555560448">Paul Rickards' "Stack of Circles"</a>. </br>
 The inner lines are increasing and decreasing over time.</p>
+
+## Crisscrossed Geometry ([source](https://github.com/MLK97/GenerativeArt/tree/master/Crisscrosed_Geometry))
+
+<p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Crisscrosed_Geometry/pictures/crisscrossed-geometry-000715.jpg" alt="crisscrossed-geometry" width="90%"></p>
