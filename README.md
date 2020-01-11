@@ -12,3 +12,7 @@ The inner lines are increasing and decreasing over time.</p>
 ## Crisscrossed Geometry ([source](https://github.com/MLK97/GenerativeArt/tree/master/Crisscrosed_Geometry))
 
 <p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Crisscrosed_Geometry/pictures/crisscrossed-geometry-000715.jpg" alt="crisscrossed-geometry" width="90%"></p>
+
+## Circle Interference ([source](https://github.com/MLK97/GenerativeArt/tree/master/Circle_Interference))
+
+<p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Circle_Interference/images/Interference.gif" width="90%"></p>
