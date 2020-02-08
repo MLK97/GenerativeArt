@@ -17,6 +17,6 @@ The inner lines are increasing and decreasing over time.</p>
 
 <p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Circle_Interference/images/Interference.gif" width="90%"></p>
 
-## 8 Dots ([source](https://github.com/MLK97/GenerativeArt/tree/master/8_Dots)
+## 8 Dots ([source](https://github.com/MLK97/GenerativeArt/tree/master/8_Dots))
 
 <p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/8_Dots/images/gif-000001.jpg" alt="crisscrossed-geometry" width="90%"></p>
