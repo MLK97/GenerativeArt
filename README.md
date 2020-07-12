@@ -20,3 +20,8 @@ The inner lines are increasing and decreasing over time.</p>
 ## 8 Dots ([source](https://github.com/MLK97/GenerativeArt/tree/master/8_Dots))
 
 <p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/8_Dots/images/gif-000001.jpg" alt="crisscrossed-geometry" width="90%"></p>
+
+## MIDIBus Circles ([source](https://github.com/MLK97/GenerativeArt/tree/master/MIDIBus_Circles)
+
+<p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/MIDIBus_Circles/pictures/MIDIBus-Circles.gif" alt="midibus circles" width="90%"></p>
+<p>Since the MIDIBus Library is very useful tool, that opens a lot of possibilities for generative art collaborating with music (i.e. through MIDI-Information) I attemped to make myself comfortable to use the library in python. Since I didn't found a lot of ressources for all the different sound libraries and how they translate to Python I want to provide a good starting point for anyone else who wants to explore MIDIBus in Processing.Py</p>
