@@ -26,3 +26,7 @@ The inner lines are increasing and decreasing over time.</p>
 <p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/MIDIBus_Circles/pictures/MIDIBus-Circles.gif" alt="midibus circles" width="90%"></p>
 <p>Since the MIDIBus Library is a very useful tool, that opens a lot of possibilities for generative art collaborating with music (i.e. through MIDI-Information) I attemped to make myself comfortable with using the library in Processing.py. Since I couldn't find a lot of ressources for all the different Processing sound libraries and how they translate to Python I want to provide a good starting point for anyone else who wants to explore MIDIBus in Processing.Py</p>
 <p>This script receives MIDI Information from a MIDI-Keyboard, takes the pitch and velocity information and creates a circle with its position and radius connected to the pitch and velocity</p>
+
+## Noisy Quads ([source](https://github.com/MLK97/GenerativeArt/tree/master/Noisy_Quads))
+
+<p align="center"><img src="https://github.com/MLK97/GenerativeArt/blob/master/Noisy_Quads/pictures/noisy-quads.gif" alt="noisy-quads" width="90%"></p>
